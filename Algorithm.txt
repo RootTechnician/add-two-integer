@@ -1,0 +1,9 @@
+
+	Algorithm : Sum of Two Integer Number .
+
+            Step-1: Start .
+            Step-2: Variable Initialize ( Like Number1 , Number2 & sum ).
+            Step-3: Input Two Number .
+            Step-4: Processing are two number. ( Sum = Number1 + Number2 )
+            Step-5: Output. ( Print Sum )
+            Step-6: End.
